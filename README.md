@@ -1,2 +1,3 @@
 # Elite101PreWork
-Elite101
+Lesson 1: Learning how to use respoitories
+
